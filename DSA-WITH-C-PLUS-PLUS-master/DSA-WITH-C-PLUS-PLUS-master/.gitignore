@@ -1,0 +1,6 @@
+# Ignore all .bin files
+*.bin
+
+# Ignore IDE and cache folders
+.vscode
+.cph
