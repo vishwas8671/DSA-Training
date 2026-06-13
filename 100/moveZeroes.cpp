@@ -2,9 +2,7 @@
 using namespace std;
 
 void moveZeroes(int arr[], int n) {
-
     int pos = 0;
-
     // Step 1: move non-zero elements forward
     for (int i = 0; i < n; i++) {
         if (arr[i] != 0) {
